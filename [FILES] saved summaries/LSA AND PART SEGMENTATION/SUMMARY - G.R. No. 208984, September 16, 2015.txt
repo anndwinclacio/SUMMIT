@@ -1,0 +1,83 @@
+TITLE
+
+G.R. No. 208984, September 16, 2015
+WT CONSTRUCTION, INC., PETITIONER, VS. THE PROVINCE OF CEBU, RESPONDENT.
+
+
+NATURE OF THE CASE
+
+Before this Court are consolidated petitions for review on certiorari assailing the Decision dated December 19, 2012 and the Resolution dated August 8, 2013 of the Court of Appeals (CA) in CA-G.R. CEB-CV No. 03791, which affirmed the Order dated September 22, 2009 of the Regional Trial Court of Cebu City, Branch 6 (RTC) in Civil Case No. CEB-34012 finding the Province of Cebu liable to pay WT Construction, Inc. (WTCI) the amount of P257,413,911.73, but reduced the legal interest rate imposable thereon from 12% to 6% per annum.
+
+
+FACTS
+
+• On July 26, 2006, after completing Phase I and receiving payment therefor, WTCI again won the bidding for Phase II of the project involving the adjacent works on CICC.
+
+• As Phase II neared completion, the Province of Cebu caused WTCI to perform additional works on the project which included site development, and additional structural, architectural, electric, and plumbing works (additional works).
+
+•  In a letter dated February 8, 2007, WTCI billed the Province of Cebu the amount of P175,951,478.69 corresponding to the added cost for the site development and extended structural and architectural works.
+
+• In a separate letter dated February 12, 2007, WTCI billed the Province of Cebu the amount of P85,266,407.97 representing the cost for the additional electrical and plumbing works.
+
+• The Province of Cebu, however, refused to pay, thereby prompting WTCI to send a Final Billing dated February 21, 2007 where it demanded payment of the aggregate sum of P261,217,886.66.
+
+• The Province of Cebu sought a reconsideration of the foregoing and argued that its valuation of the additional works was only P257,413,911.73.
+
+•  Further, it maintained that it was not liable to pay interests as WTCI performed the additional works at its own risk, given that there was no public bidding.
+
+• WTCI, on the other hand, neither filed an appeal nor a motion for reconsideration of the May 20, 2009 Judgment of the RTC.
+
+• In an Order dated September 22, 2009, the RTC granted in part the motion for reconsideration and reduced the amount of actual damages from P263,263,261.41 to P257,413,911.73, in accordance with the cost standards for the year 2006 provided by the Commission on Audit (COA), the National Statistics Office (NSO), the Department of Trade and Industry (DTI), and the Province of Cebu itself.
+
+• On all other points, including the award of 12% legal interest from the filing of the complaint, as well as the award of attorney's fees and costs of suit, the RTC sustained its earlier ruling.
+
+• Dissatisfied, the Province of Cebu appealed to the CA.
+
+• In a Decision dated December 19, 2012, the CA affirmed the RTC's Order dated September 22, 2009 but reduced the interest rate to 6% per annum.
+
+• On January 24, 2013, the Province of Cebu moved for reconsideration which was, however, denied by the CA in a Resolution dated August 8, 2013.
+
+• In a Resolution dated December 4, 2013, the Court consolidated the present petitions.
+
+
+
+
+ISSUES
+
+The Issues Before the Court
+
+The issues for the resolution of the Court are: (a) whether or not the liability of the Province of Cebu is in the nature of a loan or forbearance of money; and (b) whether or not the interest due should be computed from the date of the filing of the complaint or from the time extrajudicial demand was made.
+
+
+
+
+RULING
+
+At the outset, it must be pointed out that a determination of whether or not there wras a perfected oral contract between the Province of Cebu and WTCI is a question of fact which is beyond the scope of the Court's power in a petition for review on certiorari, subject to certain exceptions which do not obtain in this case.
+
+In the absence of stipulation, the rate of interest shall be 12% per annum to be computed from default, i.e., from judicial or extrajudicial demand under and subject to the provisions of Article 1169 of the Civil Code.
+
+When an obligation, not constituting a loan or forbearance of money, is breached, an interest on the amount of damages awarded may be imposed at the discretion of the court at the rate of 6% per annum.
+
+No interest, however, shall be adjudged on unliquidated claims or damages except when or until the demand can be established with reasonable certainty.
+
+Accordingly, where the demand is established with reasonable certainty, the interest shall begin to run from the time the claim is made judicially or extrajudicially (Art.
+
+When the judgment of the court awarding a sum of money becomes final and executory, the rate of legal interest, whether the case falls under paragraph 1 or paragraph 2, above, shall be 12% per annum from such finality until its satisfaction, this interim period being deemed to be by then an equivalent to a forbearance of credit.
+
+The foregoing guidelines have been updated in Nacar v. Gallery Frames (Nacar), pursuant to Bangko Sentral ng Pilipinas (BSP) Circular No. 799, series of 2013, which reduced the rate of legal interest for loans or transactions involving forbearance of money, goods, or credit from 12% to 6% per annum.
+
+ Nevertheless, the rate of legal interest for obligations not constituting loans or forbearance such as the one subject of this case remains unchanged at 6% per annum.
+
+Coming now to the issue of whether the RTC and the CA erred in computing the interest due WTCI from the time of the filing of the complaint, the Court finds merit in WTCI's argument that the same should be reckoned from the time WTCI made the extrajudicial demand for the payment of the principal, i.e., upon receipt of the Province of Cebu of WTCI's February 8, 2007 and February 12, 2007 letters demanding payment for the additional structural and architectural works, and additional electrical and plumbing works, respectively.
+
+The Court observes, however, that WTCI neither appealed from nor sought a reconsideration of the May 20, 2009 Judgment of the RTC which awarded interest to it computed from the time of the filing of the complaint on January 22, 2008.
+
+Accordingly, the RTC's determination of the interest's reckoning point had already become final as against WTCI since it was not one of the assigned errors considered on appeal.
+
+The Court is, therefore, constrained to uphold the rulings of the RTC and the CA that the legal interest shall be computed from the time of the filing of the complaint.
+
+The Decision dated December 19, 2012 and the Resolution dated August 8, 2013 of the Court of Appeals in CA-G.R. CEB-CV No. 03791 are hereby AFFIRMED.
+
+WHEREFORE, the petitions are DENIED.
+

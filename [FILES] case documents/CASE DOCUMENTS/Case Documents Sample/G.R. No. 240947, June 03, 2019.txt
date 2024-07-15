@@ -1,0 +1,225 @@
+
+SECOND DIVISION
+
+G.R. No. 240947, June 03, 2019
+
+DARIUS F. JOSUE, PETITIONER, VS. PEOPLE OF THE PHILIPPINES AND THE SPECIAL PROSECUTOR, OFFICE OF THE OMBUDSMAN, RESPONDENTS.
+
+G.R. NO. 240975
+
+ ANGELITO C. ENRIQUEZ, DARIUS F. JOSUE, EDEN M. VILLAROSA, LEONARDO V. ALCANTARA JR., AND LINO G. AALA,*PETITIONERS, VS. PEOPLE OF THE PHILIPPINES, RESPONDENT.
+
+DECISION
+
+PERLAS-BERNABE, J.: 
+
+
+Assailed in these consolidated petitions for review on certiorari[1] are the Decision[2] dated May 25, 2018 and the Resolution[3] dated July 30, 2018 of the Sandiganbayan (SB) in Criminal Case No. SB-11-CRM-0373, which found petitioners Darius F. Josue (Josue), Eden M. Villarosa (Villarosa), Angelito C. Enriquez (Enriquez), Leonardo V. Alcantara, Jr. (Alcantara), and Lino G. Aala (Aala; collectively, petitioners) guilty beyond reasonable doubt of violation of Section 3 (e) of Republic Act No. (RA) 3019,[4] entitled the "Anti-Graft and Corrupt Practices Act."
+
+
+The Facts
+
+The instant cases stemmed from an Information[5] dated August 20, 2009, charging petitioners, as well as one Eduardo M. Varona (Varona),[6] with violation of Section 3 (e) of RA 3019, the accusatory portion of which states:
+
+That on 07 November 2005 or sometime prior or subsequent thereto, in the City of Manila, Philippines, and within the jurisdiction of this Honorable Court, the above named accused, all public officers, the first two are high ranking officers occupying SG 28, being Director IV and Agency Head and Chief of the Special Production Division, respectively, and Officer-in-charge, Finance and Administrative Division; [Officer-in­ charge] Accounting Section; Publications and Productions Chief, Special Productions Division; and Administrative Officer V, respectively, all of the Bureau of Communications Services, Government Mass Media Group, an agency under the Office of the President, conspiring and confederating with one another, while in the performance of their duties as Chairman, Vice-Chairman and Members of the Bids and Award[s] Committee, and committing the offense in relation to duty, did then and there, through manifest partiality[,] evident bad faith, or through gross inexcusable negligence, give unwarranted benefits, advantage or preference to Ernest Printing Corporation, by awarding to said corporation the contract for the lease purchase of one (1) unit Heidelberg single color offset press in the amount of Php882,075.47, without public bidding and Approved Budget for the Contract and paying the said corporation the amount of Php850,000.00 upon signing of the lease-purchase contract instead of the monthly amortization of Php73,506.29 to the damage and prejudice of the government and the public interest.
+
+CONTRARY TO LAW.[7]
+The prosecution alleged that at the time relevant to the criminal case, petitioners were public officers of the Bureau of Communications Services (BCS), under the Office of the President, respectively holding the positions of Finance and Administrative Division officer-in-charge (OIC), Accounting Section OIC, Publications and Productions Chief, Special Productions Division Chief, and Administrative Officer V. As such, they were respectively designated as Chairperson, Vice-Chairperson, and members of the BCS-Bids and Awards Committee (BCS-BAC) to facilitate BCS's procurement needs.[8] Meanwhile, Varona was the Director IV of the BCS.[9]
+
+On November 7, 2005, Alcantara allegedly submitted a Purchase Request[10] to Varona for the procurement of a Heidelberg single color offset printing machine (printing machine).[11] On even date, Josue and Villarosa issued BCS Disposition Form No. FAD-2005-39[12] informing Varona that the BCS had no approved capital outlay to support the purchase, and suggested a lease-to-own arrangement to obtain the equipment, chargeable against its Maintenance and Other Operating Expenses (MOOE) for fiscal year 2005. However, they also cautioned that this kind of transaction may be deemed irregular by the Commission on Audit.[13] Despite knowing that its procurement was not supported by a corresponding appropriation, Varona approved the request.[14] To finance the acquisition, he explained that they had flexibility in their budget pursuant to Section 1, paragraph (f) of Administrative Order No. (AO) 103,[15] allowing them to use savings to fund the bureau's capital expenditures.[16] In turn, Josue, Villarosa, Enriquez, and Aala issued BCS-BAC Resolution No. 2005-01,[17] recommending the adoption of "limited source bidding" in accordance with Section 49 of the Implementing Rules and Regulations (IRR) of RA 9184.[18] Josue then issued Direct Invitations to Apply for Eligibility and to Bid (Limited Source Bidding)[19] to three (3) companies, i.e., Heidelberg Philippines, Union Services,   and Ernest Printing Corporation (Ernest Printing), which correspondingly submitted their respective bids.[20] Ernest Printing emerged as the winning bidder[21] leading to the execution of a Contract of Lease­ Purchase with Guaranty Deposit[22] dated November 10, 2005 between it and the BCS, as represented by Varona.[23]
+
+Aside from their roles in authorizing the procurement, petitioners also allegedly failed to comply with the proper rules and procedures laid down under RA 9184 and its IRR, as the procurement was apparently riddled with various irregularities. First, the direct invitations to bid were prematurely issued on November 7, 2005, a day before Varona's required approval for resort to limited source bidding was obtained on November 8, 2005. Second, the bidding was not published. Third, while Ernest Printing gave the lowest bid, it merely offered a 20-year-old, second-hand unit in the amount of P850,000.00, whereas Heidelberg Philippines and Union Services both offered brand new units in the amounts of P7,955,275.95 and P900,000.00, respectively. Notably, Union Services's offer for a brand new machine was just higher by P50,000.00 than Ernest Printing's offer for a 20-year-old, second-hand unit. Fourth, petitioners dispensed with the post-qualification requirements mandated under Section 34.1 to 34.3, Rule X of the IRR of RA 9184. Lastly, the contract was denominated as one for "lease-purchase," yet its provisions show that it was actually a contract of sale, as the full purchase price was immediately paid to Ernest Printing.[24]
+
+For their part, petitioners collectively insisted that they discharged their official duties in good faith and in accordance with their individual functions as required by law and existing rules. Explaining that their respective roles in the procurement process were merely recommendatory, they cast blame on Varona as the person responsible for the irregularities in the procurement of the printing machine, being the bureau's head and the final authority to accept or reject their recommendation if he deems it improper or unlawful. They also manifested that their utilization of the bureau's MOOE account to finance the transaction was justified in view of AO 103.[25] Additionally, Josue and Villarosa further argued that they had no malicious intent in recommending such transaction, as they honestly raised the fact of its irregularities through the issuance of BCS Disposition Form No. FAD-2005-39.[26] To them, this constitutes sufficient notice in writing to absolve them from liability under Section 106[27] of Presidential Decree No. (PD) 1445.[28]
+
+During the pendency of the case, the SB dismissed the criminal case as against Varona on account of his supervening death.[29]
+
+
+
+
+The SB Ruling
+
+
+
+
+
+In a Decision[30] dated May 25, 2018, the SB found petitioners guilty beyond reasonable doubt of violation of Section 3 (e) of RA 3019, and accordingly, sentenced each of them to suffer the penalty of imprisonment for an indeterminate period of six (6) years and one (1) month, as minimum, to eight (8) years, as maximum, with perpetual disqualification to hold public office and forfeiture of all retirement or gratuity benefits under any law.[31]
+
+The SB held that the prosecution had sufficiently established the presence of all the elements of the crime charged. It found that petitioners, through manifest partiality, evident bad faith, or through gross inexcusable negligence, gave unwarranted advantage, benefit, or preference to Ernest Printing in the lease-purchase of the printing machine in the amount of P882,075.47, despite the absence of capital outlay and competitive bidding, doing so by improperly utilizing the account for MOOE to finance the acquisition, resulting in damage and prejudice to the government and the public interest.[32] Moreover, the SB ruled that conspiracy existed among the petitioners as a community of criminal design may be inferred from their actions as members of the BCS and BCS-BAC.[33]
+
+Aggrieved, petitioners moved for reconsideration,[34] which was denied in a Resolution[35] dated July 30, 2018. Hence, these consolidated petitions.[36]
+
+
+The Issue Before the Court
+
+The issue for the Court's resolution is whether or not the SB correctly convicted petitioners of the crime of violation of Section 3 (e) of RA 3019.
+
+
+The Court's Ruling
+
+The petition is without merit.
+
+Section 3 (e) of RA 3019 states:
+
+Section 3. Corrupt practices of public officers. - In addition to acts or omissions of public officers already penalized by existing law, the following shall constitute corrupt practices of any public officer and are hereby declared to be unlawful:
+
+x x x x
+
+(e) Causing any undue injury to any party, including the Government, or giving any private party any unwarranted benefits, advantage or preference in the discharge of his official administrative or judicial functions through manifest partiality, evident bad faith or gross inexcusable negligence. This provision shall apply to officers and employees of offices or government corporations charged with the grant of licenses or permits or other concessions.
+Verily, the elements of violation of Section 3 (e) of RA 3019 are as follows: (a) that the accused must be a public officer discharging administrative, judicial, or official functions (or a private individual acting in conspiracy with such public officers); (b) that he acted with manifest partiality, evident bad faith, or inexcusable negligence; and (c) that his action caused any undue injury to any party, including the government, or gave any private party unwarranted benefits, advantage, or preference in the discharge of his functions.[37]
+
+In this case, the SB correctly found that the prosecution was able to establish beyond reasonable doubt the existence of the foregoing elements, as it was shown that: first, petitioners are all public officers occupying key positions in the BCS, namely Finance and Administrative Division OIC, Accounting Section OIC, Publications and Productions Chief, Special Productions Division Chief, and Administrative Officer V, and they were designated as Chairperson, Vice-Chairperson, and members of the BCS­ BAC; second, they, in conspiracy[38] with one another, acted with manifest partiality, evident bad faith, or gross inexcusable negligence in the procurement of the printing machine because they knowingly proceeded with the transaction despite the absence of capital outlay and competitive bidding, doing so by improperly utilizing the bureau's MOOE account, in clear violation of the basic and well-known principle that no money shall be paid out of any public treasury, except in pursuance of an appropriation made by law;[39] and third, petitioners gave Ernest Printing unwarranted advantage and preference by failing to conduct a public bidding, thereby precluding other suppliers from submitting bids which might be more beneficial fur the government, accepting an offer of a 20-year-old, second­ hand printing machine over an offer of a brand new one for a measly difference of P50,000.00, recommending the execution of a lease-purchase contract which requires the government to immediately pay in full an equipment it was supposed to be renting, and dispensing with the post­ qualification requirements under the law, thus resulting in undue injury to the government.
+
+In an attempt to absolve themselves from criminal liability, petitioners insist that: (a) their resort to limited source bidding cannot result in prejudice to the government as it was a permitted practice under Section 49[40] of RA 9184, and even assuming arguendo that the resort to such mode of procurement was improper, the absence of a public bidding per se does not make them criminally liable absent a clear showing that they indeed acted with manifest partiality, evident bad faith, or inexcusable negligence; (b) their use of the bureau's MOOE account was in accordance with AO 103, which allows them to use savings to fund capital programs, reliance on which is an indication of good faith; (c) by accepting Ernest Printing's second-hand printing machine in the amount of P850,000.00 over Union Service's offer in the amount of P900,000.00, they did not give the former undue preference because the former was still indisputably lower than the latter, and that there was no competent proof to establish that the unit offered by Union Service was indeed brand new; (d) their acquittal in this criminal case is justified, considering that in the counterpart administrative case for Dishonesty and Grave Misconduct, the Office of the Ombudsman downgraded their administrative liability to only Simple Neglect of Duty, finding that their failure to observe proper procurement rules and procedure was not tainted with malice and/or bad faith;[41] (e) their right to be informed of the nature and cause of the accusation against them was violated when the SB discussed the concept of "capital outlay," a term which does not appear in the Information; and (f) the SB erred in appreciating the existence of conspiracy, absent proof of the same.[42]
+
+Petitioners' arguments are untenable.
+
+As the SB accurately ratiocinated, the crime charged in the Information is not one for violation of budgetary, auditing or accounting rules, per se, but rather, one for violation of Section 3 (e) of RA 3019, the elements of which have already been established in this case, as afore­discussed. Further, the SB also correctly pointed out that petitioners' reliance on AO 103 is misplaced as it must be read in conjunction with existing laws pertaining to government spending and auditing. As an executive issuance, Section 1 (f) of AO 103 merely authorizes the realignment of savings to fund capital programs of the government. It does not authorize the use of government funds for capital acquisitions without corresponding appropriations, in violation of the fundamental constitutional precept that "[n]o money shall be paid out of the Treasury except in pursuance of an appropriation made by law."[43] Here, as the SB observed, petitioners knew very well from the start that the acquisition of the printing machine had no approved capital outlay; nonetheless, they still persisted in proceeding with the illegal transaction.[44]
+
+Moreover, the SB correctly opined that the ruling in the counterpart administrative case holds no water in the instant criminal case, as it is hornbook doctrine in administrative law that administrative cases are independent from criminal actions for the same acts or omissions. Given the differences in the quantum of evidence required, the procedures actually observed, the sanctions imposed, as well as the objective of the two (2) proceedings, the findings and conclusions in one should not necessarily be binding on the other. Hence, the exoneration in the administrative case is not a bar to a criminal prosecution for the same or similar acts which were the subject of the administrative complaint or vice versa.[45]
+
+Finally, the SB did not err in declaring that there was no violation of petitioners' constitutional right to be informed of the nature and cause of the accusation against them by the use of the term "capital outlay" in its Decision without mentioning the same in the Information, as such right merely requires that an Information only state the ultimate facts constituting the offense and not the finer details of why and how the crime was committed.[46] Similarly, the Court observes that the SB likewise did not err in concluding that Section 106 of PD 1445 cannot be applied in favor of Josue and Villarosa as the notice required under the law should be given "prior to that act." Here, petitioners had belatedly sent the notice of irregularity in the transaction, i.e., ·after the bidding process had already begun.[47]
+
+In sum, the Court finds no cogent reason to overturn petitioners' conviction, as there was no showing that the SB overlooked, misunderstood, or misapplied the surrounding facts and circumstances of these consolidated cases, especially considering that the SB was in the best position to assess and determine the credibility of the witnesses presented by both parties.[48]
+
+WHEREFORE, the consolidated petitions are DENIED. The Decision dated May 25, 2018 and the Resolution dated July 30, 2018 of the Sandiganbayan in Criminal Case No. SB-11-CRM-0373 are hereby AFFIRMED. Petitioners Darius F. Josue, Eden M. Villarosa, Angelito C. Enriquez, Leonardo V. Alcantara, Jr., and Lino G. Aala are found GUILTY beyond reasonable doubt of the crime of violation of Section 3 (e) of Republic Act No. 3019, and accordingly, each of them is sentenced to suffer the indeterminate penalty of imprisonment for a period of six (6) years and one (1) month, as minimum, to eight (8) years, as maximum, with perpetual disqualification from public office and forfeiture of all retirement or gratuity benefits under any law.
+
+SO ORDERED.
+
+Carpio, (Chairperson),  J. Reyes, Jr.,  and Lazaro-Javier, JJ., concur.
+Caguioa, J.,** on official leave.
+
+
+
+
+
+* Darius F. Josue, Eden M. Villarosa, Leonardo V. Alcantara, Jr., and Lino G. Aala were included as co­ petitioners of Angelito C. Enriquez in his petition posted before this Court on September 17, 2018 (see rollo G.R. No. 240975], pp. 15-16). On even date, Eden M. Villarosa, Leonardo V. Alcantara, Jr., and Lino G. Aala also  filed their  petition (see id. at 136). Both petitions were docketed as G.R. No. 240975.
+
+** On official leave.
+
+[1] Rollo (G.R. No. 240947), pp. 11-47; and rollo (G.R. No. 240975), pp. 15-44 and 136-155.
+
+[2] Rollo (G.R. No. 240947), pp. 48-87; and rollo (G.R. No. 240975), pp. 45-84. Penned by Associate Justice Zaldy V. Trespeses with Associate Justice and Chairperson Ma. Theresa Dolores C. Gomez­ Estoesta and Associate Justice Bayani H. Jacinto, concurring.
+
+[3] Rollo (G.R. No. 240947), pp. 88-106; and rollo (G.R. No. 240975), pp. 85-103.
+
+[4] (August 17, 1960).
+
+[5] Rollo (G.R. No. 240975), pp. 254-256.
+
+[6] "Eduardo  Varona,  Jr." passed away on June 14, 2006 while the case was pending  before the Ombudsman; see rollo (G.R. No. 240947), pp. 49-50 and 156.
+
+[7] See rollo (G.R. No. 240975), pp. 254-255.
+
+[8] See rollo (G.R. No. 240947), pp. 48 and 50.
+
+[9] Id. at 48.
+
+[10] See Purchase Request No. 05-11-0412; id. at 107.
+
+[11] See also Justification on the Lease-Purchase of a Heidelberg Offset Press dated November 7, 2005; id. at 108-109.
+
+[12] See BCS Disposition Form with Office Control No. FAD-2005-39; id. at 110.
+
+[13] See id.
+
+[14] See id. at 107.
+
+[15] Entitled "DIRECTING THE CONTINUED ADOPTION OF AUSTERITY MEASURES IN THE GOVERNMENT," approved on August 31, 2004. It provides, inter alia, that:
+
+Section 1. All national government agencies (NGAs), including state universities and colleges (SUCs), government-owned and controlled corporations (GOCCs), government financial institutions (GFIs), and other government corporate entities (OGCEs), and their subsidiaries, and other instrumentalities under the Executive Department, whether or not they receive funding support through the General Appropriations Act, are hereby ordered to adopt the following austerity measures;
+
+x x x x
+
+(f) Strict prioritization of capital expenditures, and realignment of use of savings to fund capital programs of the agencies, especially those in pursuit of the 10-point Legacy Agenda.
+
+
+[16] See rollo (G.R. No. 240947), p. 52.
+
+[17]  Entitled "RECOMMENDING THE ADOPTION OF AN ALTERNATIVE Mom: IN THE PROCUREMENT COVERED BY PURCHASE REQUEST NO. 05-11-0412 AND FOR OTHER PURPOSES," issued on November 7, 2005. Id. at 111-112.
+
+[18]  Entitled "AN ACT PROVIDING FOR THE MODERNIZATION, STANDARDIZATION AND REGULATION OF THE PROCUREMENT ACTIVITIES OF THE GOVERNMENT AND FOR OTHER PURPOSES," otherwise known as the "GOVERNMENT PROCUREMENT REFORM ACT," approved on January 10, 2003. See also "IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT No. 9184, OTHERWISE KNOWN AS THE 'GOVERNMENT PROCUREMENT REFORM ACT' (As AMENDED)," approved on August 3, 2009.
+
+[19] See rollo (G.R. No. 240947), pp. 113-119.
+
+[20] See id. at 120-125.
+
+[21] See BCS-BAC Resolution No. 2005-02, entitled "RECOMMENDING THE AWARD OF THE LEASE ­PURCHASE CONTRACT UNDER THE APPROVED PURCHASE REQUEST NO 05-11-0412 TO ERNEST PRINTING CORPORATION AND  FOR OTHER PURPOSES," issued on November 9, 2005; id. at 126-127.
+
+[22] Id. at 133-135.
+
+[23] Id. at 135.
+
+[24] See id. at 65-68.
+
+[25] See id. at 89-92.
+
+[26] See id. at 74-75.
+
+[27] See id. See also Section 106 of PD 1445, entitled "ORDAINING AND INSTITUTING A GOVERNMENT AUDITING CODE OF THE PHILIPPINES" otherwise known as the "GOVERNMENT AUDITING CODE OF THE PHILIPPINES," approved on June 11, 1978, which reads:
+
+Section 106. Liability for Acts Done by Direction of Superior Officer. – No accountable officer shall be relieved from liability by reason of his having acted under the direction of a superior officer in paying out, applying, or disposing of the funds or property with which he is chargeable, unless prior to that act, he notified the superior officer in writing of the illegality of the payment, application, or disposition. The officer directing any illegal payment or disposition of the funds or property shall be primarily liable for the loss, while the accountable officer who fails to serve the required notice shall be secondarily liable.
+[28] Entitled "ORDAINING AND INSTITUTING A GOVERNMENT AUDITING CODE OF THE PHILIPPINES," otherwise known as the "GOVERNMENT AUDITING CODE OF THE PHILIPPINES," approved on June 11, 1978. See also rollo (G.R. No. 240947), pp. 74-75.
+
+[29] See id. at 49-50.
+
+[30] Rollo (G.R., No. 240947), pp. 48-87; and rollo (G.R. No. 240975), pp. 45-84.
+
+[31] Rollo (G.R. No. 240947), p. 86.
+
+[32] See id. at 80-82.
+
+[33] See Id. at 82-84.
+
+[34] Dated June 8, 2018 (see id. at 12); the motion for reconsideration was not attached to the rollos.
+
+[35] Rollo (G.R. No. 240947), pp. 88-106; and rollo (G.R. No. 240975), pp. 85-103.
+
+[36] Rollo (G.R. No. 240947), pp. 11-47; rollo (G.R. No. 240975), pp. 15-44 and 136-155.
+
+[37] See Cambe v. Ombudsman, 802 Phil. 190, 216-217 (2016), citing Presidential Commission on Good Government v. Navarra-Gutierrez, 772 Phil. 91, 102 (2015).
+
+[38] "It is settled that direct proof is not essential to establish conspiracy as it may be inferred from the collective acts of the accused before, during and after the commission of the crime. It can be presumed from and proven by acts of the accused themselves when the said acts point to a joint purpose, design, concerted action, and community of interests." (People v. Lamsen, 704 Phil. 500, 510 [2013], citing People v. Buntag, 471 Phil. 82, 93 [2004])
+
+[39] See Section 4 of PD 1445. See also Miralles v. Commission on Audit, G.R. No. 210571, September 19, 2017, 840 SCRA 1 08, 1 18-1 19.
+
+[40] Section 49 of RA 9184 reads:
+
+Section 49. Limited Source Bidding.- Limited Source Bidding may be resorted to only in any of the following conditions:
+
+
+
+(a)  
+
+Procurement of highly specialized types of Goods and Consulting Services which are known to be obtainable only from a limited number of sources; or  
+
+
+
+ 
+
+ 
+
+(b) 
+
+Procurement of major plant components where it is deemed advantageous to limit the bidding to known eligible bidders in order to maintain an optimum and uniform level of quality and performance of the plant as a whole. 
+
+[41] See Order dated July 18, 2012 of the Office of the Ombudsman in Field Investigation Office (FIO) v. Varona, et al., docketed as OMB-C-A-08-0324-G; rollo, (G.R. No. 240947), pp. 175-187.
+
+[42] Rollo (G.R. No. 240947), pp. 18-44 and 89-92; rollo (G.R. No. 240975). pp. 25-33 and 141-153.
+
+[43] Paragraph 1, Section 29, Article VI of the Constitution.
+
+[44] See rollo (G.R. No. 240947), pp. 102-105.
+
+[45] See Flores v. People, G.R. No. 222861, April 23, 2018.
+
+[46] People v. Sandiganbayan, 769 Phil. 378, 391 (2015).
+
+[47] Rollo (G.R. No. 240947), pp. 99-100.
+
+[48] See People v. Cuevas, G.R. No. 238906, November 5, 2018.
+
+
+
+
+  

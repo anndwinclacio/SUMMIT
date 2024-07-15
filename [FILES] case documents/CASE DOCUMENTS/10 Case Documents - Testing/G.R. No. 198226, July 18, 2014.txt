@@ -1,0 +1,192 @@
+739 PHIL. 159 
+
+SECOND DIVISION
+
+G.R. No. 198226, July 18, 2014
+
+ABOITIZ TRANSPORT SYSTEM CORPORATION AND ABOITIZ SHIPPING CORPORATION, PETITIONERS, VS. CARLOS A. GOTHONG LINES, INC. AND VICTOR S. CHIONGBIAN, RESPONDENTS. 
+
+G.R. NO. 198228]
+
+ ABOITIZ TRANSPORT SYSTEM CORPORATION, PETITIONER, VS. CARLOS A. GOTHONG LINES, INC. AND VICTOR S. CHIONGBIAN, RESPONDENTS.
+
+D E C I S I O N
+
+PERLAS-BERNABE, J.: 
+
+
+Assailed in these petitions for review on certiorari[1] are the Orders dated August 13, 2010,[2] April 15, 2011,[3] and July 6, 2011[4] of the Regional Trial Court of Cebu City, Branch 20 (RTC) in Civil Case No. CEB-34951, which confirmed the notice of dismissal filed by respondent Carlos A. Gothong Lines, Inc. (CAGLI) and, consequently, dismissed the case without prejudice, denied petitioners Aboitiz Transport System Corporation (ATSC) and Aboitiz Shipping Corporation’s (ASC) motion for reconsideration, and deemed ATSC’s motion to exclude respondent Victor S. Chiongbian (respondent Chiongbian) from arbitration moot and academic, respectively.
+
+
+The Facts
+
+
+ASC, CAGLI, and William Lines, Inc. (WLI), principally owned by the Aboitiz, Gothong, and Chiongbian families, respectively, entered into an Agreement[5] dated January 8, 1996, which was signed by Jon Ramon Aboitiz for ASC, Benjamin D. Gothong (Gothong) for CAGLI, and respondent Chiongbian for WLI. In the said Agreement, ASC and CAGLI agreed to transfer their shipping assets to WLI in exchange for the latter’s shares of capital stock. The parties likewise agreed that WLI would run the merged shipping business and be renamed “WG&A, Inc.” Pertinently, Section 11.06 of the Agreement provides that all disputes arising out of or in connection with the Agreement shall be finally settled by arbitration in accordance with Republic Act No. (RA) 876, otherwise known as “The Arbitration Law,”[6] and that each of the parties shall appoint one arbitrator, and the three arbitrators would then appoint the fourth arbitrator who shall act as Chairman.
+
+Among the attachments to the Agreement was a letter[7] dated January 8, 1996 written by respondent Chiongbian and addressed to Gothong, stating that WLI committed to acquire from CAGLI’s inventory certain spare parts and materials not exceeding P400 Million. In this relation, a valuation of CAGLI’s inventory was conducted wherein it was shown that the same amounted to P514 Million.[8] Thereafter, WLI received inventory valued at P558.89 Million, but only paid CAGLI the amount of P400 Million as agreed upon in the Agreement.[9] Dissatisfied, CAGLI sent to WLI various letters in 2001, demanding that the latter pay or return the inventory that it received in excess of P400 Million.[10]
+
+Sometime in 2002, the Chiongbian and Gothong families decided to sell their respective interests in WLI/WG&A to the Aboitiz family. This resulted in the execution of a Share Purchase Agreement[11] whereby Aboitiz Equity Ventures (AEV) agreed to purchase and acquire the WLI/WG&A shares of the Chiongbian and Gothong families. Thereafter, the corporate name of WLI/WG&A was changed to ATSC.[12]
+
+Six (6) years later, or in 2008, CAGLI sent a letter[13] dated February 14, 2008 to ATSC demanding that the latter pay the excess inventory it delivered to WLI amounting to P158,399,700.00. CAGLI likewise demanded AEV and respondent Chiongbian that they refer their dispute to arbitration.[14] In response, AEV countered that the excess inventory had already been returned to CAGLI and that it should not be included in the dispute, considering that it is an entity separate and distinct from ATSC.[15] Thus, CAGLI was constrained to file a complaint[16] before the RTC against Chiongbian, ATSC, ASC, and AEV to compel them to submit to arbitration.
+
+For their part, ATSC and AEV moved for the dismissal of the case, contending that CAGLI did not have a cause of action for arbitration since its claim had already been paid or otherwise, extinguished, and, in any event, said action had already prescribed.[17]
+
+
+The RTC Proceedings
+
+In an Order[18] dated December 4, 2009, the RTC dismissed the complaint only with respect to AEV for lack of cause of action,[19] but not as to the other defendants. Thereafter, the RTC issued an Order[20] dated February 26, 2010, directing CAGLI, respondent Chiongbian, ATSC, and ASC to proceed to arbitration, and accordingly, the parties appointed their respective arbitrators, with ATSC and ASC doing so only on an ad cautelam basis.[21]
+
+Meanwhile, ATSC filed a Motion for Reconsideration/To Exclude[22] dated March 25, 2010 praying that respondent Chiongbian be excluded from the arbitration proceedings since the latter was not a party to the Agreement. Pending resolution of the said motion, CAGLI filed a Notice of Dismissal[23] dated July 8, 2010, averring that it has decided to withdraw its complaint in view of the fact that the opposing parties had not filed their respective responsive pleadings.
+
+In an Order[24] dated August 13, 2010, the RTC found CAGLI’s Notice of Dismissal meritorious, and, thus, confirmed the same and ordered the case dismissed without prejudice.
+
+Dissatisfied, ATSC and ASC moved for reconsideration[25] which was, however, denied in an Order[26] dated April 15, 2011. In said Order, the RTC cited Section 1 of Rule 17 of the Rules of Court which allows the plaintiff to file a notice of dismissal of the complaint as a matter of right “before service of the answer or a motion for summary judgment.” It further ruled that, save for the condition that no answer or motion for summary judgment had been priorly filed, nothing in the rules or law expressly prohibits or restricts the right of the plaintiff to withdraw the complaint by mere notice of dismissal at any stage of the proceedings.[27]
+
+Separately, the RTC issued an Order[28] dated July 6, 2011, denying ATSC’s Motion for Reconsideration/To Exclude, holding that the issue raised in the said motion has been rendered moot and academic in view of the confirmation of CAGLI’s notice of dismissal.
+
+Hence, the instant petitions.
+
+
+The Issues Before the Court
+
+The issues for the Court’s resolution are as follows: (a) whether or not the RTC was correct in confirming CAGLI’s notice of dismissal and, consequently, dismissing the case without prejudice; and (b) whether or not respondent Chiongbian should be excluded from the arbitration proceedings.
+
+
+The Court’s Ruling
+
+The petition is meritorious.
+
+A.  Propriety of CAGLI’s Notice of Dismissal.
+
+At the outset, the Court notes that the nature of the complaint filed by CAGLI before the RTC is for the enforcement of an arbitration agreement, governed by Section 6 of RA 876, viz.:
+
+
+Section 6. Hearing by court. –  A party aggrieved by the failure, neglect or refusal of another to perform under an agreement in writing providing for arbitration may petition the court for an order directing that such arbitration proceed in the manner provided for in such agreement. Five days notice in writing of the hearing of such application shall be served either personally or by registered mail upon the party in default. The court shall hear the parties, and upon being satisfied that the making of the agreement or such failure to comply therewith is not in issue, shall make an order directing the parties to proceed to arbitration in accordance with the terms of the agreement. If the making of the agreement or default be in issue the court shall proceed to summarily hear such issue. If the finding be that no agreement in writing providing for arbitration was made, or that there is no default in the proceeding thereunder, the proceeding shall be dismissed. If the finding be that a written provision for arbitration was made and there is a default in proceeding thereunder, an order shall be made summarily directing the parties to proceed with the arbitration in accordance with the terms thereof.
+
+x x x x (Emphasis supplied)
+
+In the case of Gonzales v. Climax Mining, Ltd. (Gonzales),[29] the Court had instructed that the special proceeding under the above-quoted provision is the procedural mechanism for the enforcement of the contract to arbitrate.[30] RA 876 explicitly confines the court’s authority only to pass upon the issue of whether there is or there is no agreement in writing providing for arbitration. If there is such agreement, the court shall issue an order summarily directing the parties to proceed with the arbitration in accordance with the terms thereof; otherwise, the proceeding shall be dismissed.[31] To stress, such proceeding is merely a summary remedy to enforce the agreement to arbitrate and the duty of the court is not to resolve the merits of the parties’ claims but only to determine if they should proceed to arbitration or not.[32]
+
+In the present case, the records show that the primary relief sought for in CAGLI’s complaint, i.e., to compel the parties to submit to arbitration,[33] had already been granted by the RTC through its Order[34] dated February 26, 2010. Undeniably, such Order partakes of a judgment on the merits of the complaint for the enforcement of the arbitration agreement.
+
+At this point, although no responsive pleading had been filed by ATSC,[35]  it is the rules on appeal, or other proceedings after rendition of a judgment or final order – no longer those on notice of dismissal – that come into play. Verily, upon the rendition of a judgment or final order,[36] the period “before service of the answer or of a motion for summary judgment,” mentioned in Section 1[37] of Rule 17 of the Rules of Court when a notice of dismissal may be filed by the plaintiff, no longer applies.  As a consequence, a notice of dismissal filed by the plaintiff at such judgment stage should no longer be entertained or confirmed.
+
+In view of the foregoing, it was an error on the part of the RTC to have confirmed the notice of dismissal and to have dismissed the complaint without prejudice.
+
+B.  Parties covered by Arbitration Proceedings. 
+
+Section 2 of RA 876 specifies who may be subjected to arbitration, to wit:
+
+
+Sec. 2. Persons and matters subject to arbitration. – Two or more persons or parties may submit to the arbitration of one or more arbitrators any controversy existing between them at the time of the submission and which may be the subject of an action, or the parties to any contract may in such contract agree to settle by arbitration a controversy thereafter arising between them. Such submission or contract shall be valid, enforceable and irrevocable, save upon such grounds as exist at law for the revocation of any contract.
+
+x x x x
+
+In Gonzales, the Court explained that “[d]isputes do not go to arbitration unless and until the parties have agreed to abide by the arbitrator’s decision.  Necessarily, a contract is required for arbitration to take place and to be binding.”[38]  Furthermore, in Del Monte Corporation – USA v. Court of Appeals,[39] the Court stated that “[t]he provision to submit to arbitration any dispute arising therefrom and the relationship of the parties is part of that contract. As a rule, contracts are respected as the law between the contracting parties and produce effect as between them, their assigns and heirs.”[40] Succinctly put, only those parties who have agreed to submit a controversy to arbitration who, as against each other, may be compelled to submit to arbitration.
+
+In the present case, Section 11.06 of the Agreement, which embodies the Arbitration Agreement among the parties, provides:
+
+
+All disputes arising out of or in connection with this Agreement including any issue as to this Agreement's validity or enforceability, which cannot be settled amicably among the parties, shall be finally settled by arbitration in accordance with the Arbitration Law (Republic Act No. 876) by an arbitration tribunal composed of four (4) arbitrators.  Each of the parties shall appoint one (1) arbitrator, the three (3) to appoint the fourth arbitrator who shall act as Chairman.  Any award by the arbitration tribunal shall be final and binding upon the parties and shall be enforced by judgment of the Courts of Cebu or Metro Manila. [41]
+
+The three parties to the Agreement and necessarily to the arbitration agreement embodied therein are: (a) ASC, (b) CAGLI, and (c) WLI/WG&A/ATSC.  Contracts, like the subject arbitration agreement, take effect only between the parties, their assigns and heirs.[42] Respondent Chiongbian, having merely physically signed the Agreement as a representative of WLI, is not a party thereto and to the arbitration agreement contained therein.  Neither is he an assignee or an heir of any of the parties to the arbitration agreement. Hence, respondent Chiongbian cannot be included in the arbitration proceedings.
+
+WHEREFORE, the petitions are GRANTED.  The Orders dated August 13, 2010, April 15, 2011, and July 6, 2011 of the Regional Trial Court of Cebu City, Branch 20 (RTC) in Civil Case No. CEB-34951 are hereby REVERSED and SET ASIDE. The Order dated February 26, 2010 of the RTC is REINSTATED with MODIFICATION excluding Victor S. Chiongbian from the arbitration proceedings.
+
+SO ORDERED.
+
+Carpio, (Chairperson), Brion, Del Castillo, and Perlas-Bernabe, JJ., concur.
+
+
+
+[1] Rollo (G.R. No. 198226), pp. 24-50; rollo (G.R. No. 198228), pp. 19-42.
+
+[2] Rollo (G.R. No. 198226), p. 7; rollo (G.R. No. 198228), p. 675. Penned by Presiding Judge Bienvenido R. Saniel, Jr.
+
+[3] Rollo (G.R. No. 198226), pp. 8-11; rollo (G.R. No. 198228), pp. 710-713.
+
+[4] Rollo (G.R. No. 198226), p. 725; rollo (G.R. No. 198228), p. 48.
+
+[5] Rollo (G.R. No. 198226), pp. 76-109; rollo (G.R. No. 198228), pp. 61-95.
+
+[6] Entitled “An Act to Authorize the Making of Arbitration and Submission Agreements, to Provide for the Appointment of Arbitrators and the Procedure for Arbitration in Civil Controversies, and for Other Purposes.”
+
+[7] Rollo (G.R. No. 198226), pp. 120-121; rollo (G.R. No. 198228), pp. 105-106.
+
+[8] Rollo (G.R. No. 198226), p. 29.
+
+[9] Id. at 30.
+
+[10] Id.
+
+[11] Rollo (G.R. No. 198226), pp. 515-527; rollo (G.R. No. 198228), pp. 500-512.
+
+[12] Rollo (G.R. No. 198226), p. 32.
+
+[13] Rollo (G.R. No. 198226), pp. 579-580; rollo (G.R. No. 198228), pp. 514-515.
+
+[14] See letter dated April 15, 2008. Rollo (G.R. No. 198226), pp. 581-584; rollo (G.R. No. 198228), pp. 566-569.
+
+[15] See letter dated October 16, 2008. Rollo (G.R. No. 198226), pp. 597-598; rollo (G.R. No. 198228), pp. 582-583.
+
+[16] See letter dated November 6, 2008. Rollo (G.R. No. 198226), pp. 602-607; rollo (G.R. No. 198228), pp. 587-592.
+
+[17] See Motion to Dismiss dated April 24, 2009. Rollo (G.R. No. 198226), pp. 610-614; rollo (G.R. No. 198228), pp. 595-599. See also rollo (G.R. No. 198226), p. 742.
+
+[18] Rollo (G.R. No. 198226), pp. 621-622; rollo (G.R. No. 198228), pp. 606-607.
+
+[19] Rollo (G.R. No. 198226), p. 742.
+
+[20] Rollo (G.R. No. 198226), p. 634; rollo (G.R. No. 198228), p. 7.
+
+[21] See Compliance of CAGLI dated March 5, 2010. (Rollo G.R. No. 198226], pp. 635-636; rollo G.R. No. 198228], pp. 619-620.) See Manifestation/Compliance Ad Cautelam of ASC dated March 25, 2010. (Rollo G.R. No. 198226], pp. 637-638; rollo G.R. No. 198228], pp. 621-622.) See Manifestation/Compliance Ad Cautelam of ATSC dated March 25, 2010. (Rollo G.R. No. 198226], pp. 639-640; rollo G.R. No. 198228], pp.623-624.) See Compliance of respondent Chiongbian dated April 19, 2010. (Rollo G.R. No. 198226], pp. 641-642; rollo G.R. No. 198228], pp. 625-626.)
+
+[22] Rollo (G.R. No. 198226), pp. 643-646; rollo (G.R. No. 198228), pp. 627-630.
+
+[23] Rollo (G.R. No. 198226), pp. 682-683; rollo (G.R. No. 198228), pp. 666-667.
+
+[24] Rollo (G.R. No. 198226), p. 7; rollo (G.R. No. 198228), p. 675.
+
+[25] See Motion for Reconsideration dated September 20, 2010. (Rollo G.R. No. 198226], pp. 691-701; rollo G.R. No. 198228], pp. 676-686.)
+
+[26] Rollo (G.R. No. 198226), pp. 8-11; rollo (G.R. No. 198228), pp. 710-713.
+
+[27] Rollo (G.R. No. 198226), p. 9; rollo (G.R. No. 198228), p. 711.
+
+[28] Rollo (G.R. No. 198226), p. 725; rollo (G.R. No. 198228), p. 48.
+
+[29] 541 Phil. 143 (2007).
+
+[30] Id. at 164-165.
+
+[31] See id. at 165, citing La Naval Drug Corporation v. Court of Appeals, G.R. No. 103200, August 31, 1994, 236 SCRA 78, 91.
+
+[32] See id., citing Mindanao Portland Cement Corporation v. McDonough Construction Company of Florida, 126 Phil. 78, 91 (1967).
+
+[33] Rollo (G.R. No. 198226), pp. 606-607; rollo (G.R. No. 198228), pp. 591-592.
+
+[34] Rollo (G.R. No. 198226), p. 634; rollo (G.R. No. 198228), p. 7.
+
+[35] Once a judgment or order on the merits of the particular matter involved in the complaint has been rendered or parties have already been prejudiced by virtue of having appeared in court to defend their position, as in the present case, it is as though an answer or motion for summary judgment had already been filed.  (Cf. San Miguel Corp. v. Sandiganbayan, 394 Phil. 608, 648 [2000].)
+
+[36] See Leonidas v. Judge Supnet, 446 Phil 53 (2003).
+
+[37] Sec. 1.  Dismissal upon notice by plaintiff. – A complaint may be dismissed by the plaintiff by filing a notice of dismissal at any time before service of the answer or of a motion for summary judgment.  Upon such notice being filed, the court shall issue an order confirming the dismissal.  Unless otherwise stated in the notice, the dismissal is without prejudice, except that a notice operates as an adjudication upon the merits when filed by a plaintiff who has once dismissed in a competent court an action based on or including the same claim.
+
+[38] Gonzales v. Climax Mining, Ltd., supra note 29, at 163.
+
+[39] 404 Phil. 192 (2001).
+
+[40] See id. at 202.
+
+[41] Rollo (G.R. No. 198226), p. 107.
+
+[42] See Article 1311 of the Civil Code, which reads:
+
+Art. 1311. Contracts take effect only between the parties, their assigns and heirs, except in case where the rights and obligations arising from the contract are not transmissible by their nature, or by stipulation or by provision of law. The heir is not liable beyond the value of the property he received from the decedent.
+If a contract should contain some stipulation in favor of a third person, he may demand its fulfillment provided he communicated his acceptance to the obligor before its revocation. A mere incidental benefit or interest of a person is not sufficient. The contracting parties must have clearly and deliberately conferred a favor upon a third person.
+
+
+
+
+  

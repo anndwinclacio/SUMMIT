@@ -1,0 +1,373 @@
+703 Phil. 609 
+
+SECOND DIVISION
+
+G.R. No. 198694, February 13, 2013
+
+RAMON MARTINEZ Y GOCO/ RAMON GOCO Y MARTINEZ @ MON, PETITIONER, VS. PEOPLE OF THE PHILIPPINES, RESPONDENT.
+
+D E C I S I O N
+
+PERLAS-BERNABE, J.: 
+
+
+Assailed in this Petition for Review on Certiorari[1] under Rule 45 of the Rules of Court are the June 30, 2011 Decision[2] and September 20, 2011 Resolution[3] of the Court of Appeals (CA) in CA-G.R. CR No. 32544 which affirmed the April 30, 2009 Decision[4] of the Regional Trial Court of Manila, Branch 2 (RTC) in Criminal Case No. 08-258669, convicting petitioner Ramon Martinez y Goco/ Ramon Gocoy Martinez (Ramon) of the crime of possession of dangerous drugs punished under Section 11(3), Article II of Republic Act No. 9165 (RA 9165), otherwise known as the “Comprehensive Dangerous Drugs Act of 2002.”
+
+
+The Factual Antecedents
+
+
+At around 9:15 in the evening of December 29, 2007, PO2 Roberto Soque (PO2 Soque), PO2 Alejandro Cepe(PO2 Cepe) and PO3 Edilberto Zeta (PO3 Zeta), who were all assigned to the Station Anti-Illegal Drugs (SAID) Section of the Malate Police Station 9 (Police Station 9), conducted a routine foot patrol along Balingkit Street, Malate, Manila.  In the process, they heard a man shouting “Putang ina mo! Limang daan na ba ito?” For purportedly violating Section 844 of the Revised Ordinance of the City of Manila (Manila City Ordinance)which punishes breaches of the peace, the man, later identified as Ramon, was apprehended and asked to empty his pockets. In the course thereof, the police officers were able to recover from him a small transparent plastic sachet containing white crystalline substance suspected to be shabu. PO2 Soque confiscated the sachet and brought Ramon to Police Station 9 where the former marked the item with the latter’s initials, “RMG.” There, Police Superintendent Ferdinand Ricafrente Quirante (PSupt Quirante) prepared a request for laboratory examination which, together with the specimen, was brought by PO2 Soque to the PNP Crime Laboratory for examination.
+
+Forensic Chemist Police Senior Inspector Erickson Calabocal (PS Insp Calabocal) examined the specimen which contained 0.173 gram of white crystalline substance and found the same positive for methylamphetamine hydrochloride (or shabu).
+
+Consequently, Ramon was charged with possession of dangerous drugs under Section 11(3), Article II of RA 9165 through an Information dated January 3, 2008 which states:
+
+
+That on or about December 29, 2007, in the City of Manila, Philippines, the said accused, without being authorized by law to possess any dangerous drug, did then and there willfully, unlawfully and knowingly have in his possession and under his custody and control one (1) heat sealed transparent plastic sachet containing ZERO POINT ONE SEVEN THREE (0.173) gram of white crystalline substance containing methylamphetamine hydrochloride known as SHABU, a dangerous drug.[5]
+
+In defense, Ramon denied the charge and gave his version of the incident. He narrated that on December 29, 2007, at around 4:00 in the afternoon, while walking along Balingkit Street to borrow a welding machine from one Paez Garcia, a man in civilian clothing approached and asked him if he is Ramon Goco. Upon affirming his identity, he was immediately handcuffed by the man who eventually introduced himself as a police officer. Together, they boarded a tricycle (sidecar) where the said officer asked him if he was carrying illegal drugs. Despite his denial, he was still brought to a precinct to be detained. Thereafter, PO2 Soque propositioned Ramon and asked for P20,000.00 in exchange for his release.When Ramon’s wife, Amalia Goco, was unable to produce the P20,000.00 which PO2 Soque had asked for, he (Ramon) was brought to the Manila City Hall for inquest proceedings.
+
+
+The RTC Ruling
+
+
+In its April 30, 2009 Decision, the RTC convicted Ramon of the crime of possession of dangerous drugs as charged, finding all its elements to have been established through the testimonies of the prosecution’s disinterested witnesses. In this relation, it also upheld the legality of Ramon’s warrantless arrest, observing that Ramon was disturbing the peace in violation of the Manila City Ordinance during the time of his apprehension. Consequently, Ramon was sentenced to suffer the penalty of imprisonment of twelve (12) years and one (1) day as minimum to seventeen (17) years and four (4) months as maximum and to pay a fine of P300,000.00. Aggrieved, Ramon elevated his conviction to the CA.
+
+
+The CA Ruling
+
+In its June 30, 2011 Decision,the CA denied Ramon’s appeal and thereby affirmed his conviction. It upheld the factual findings of the RTC which found that the elements of the crime of possession of dangerous drugs were extant, to wit: (1) that the accused is in possession of a prohibited drug; (2) that such possession is not authorized by law; and (3) that the accused freely and consciously possessed the said drug.[6]
+
+Likewise, the CA sustained the validity of the body search made on Ramon as an incident of a lawful warrantless arrest for breach of the peace which he committed in the presence of the police officers, notwithstanding its (the case for breach of the peace) subsequent dismissal for failure to prosecute.
+
+Moreover, the CA observed that every link in the chain of custody of the prohibited drug was sufficiently established from the time PO2 Soque took the same up to its actual presentation in court.
+
+Finally, it did not give credence to Ramon’s claim of extortion as his asseverations failed to overcome the presumption of regularity in the performance of the police officers’ official duties.
+
+
+The Issue
+
+
+The sole issue raised in this petition is whether or not the CA erred in affirming the Decision of the RTC convicting Ramon of the crime of possession of dangerous drugs.
+
+
+The Ruling of the Court
+
+
+The petition is meritorious.
+
+Enshrined in the fundamental law is a person’s right against unwarranted intrusions by the government. Section 2, Article III of the 1987 Philippine Constitution (Constitution) states that:
+
+
+Section 2.The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures of whatever nature and for any purpose shall be inviolable, and no search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge after examination under oath or affirmation of the complainant and the witnesses he may produce, and particularly describing the place to be searched and the persons or things to be seized.
+
+Accordingly, so as to ensure that the same sacrosanct right remains revered, effects secured by government authorities in contravention of the foregoing are rendered inadmissible in evidence for any purpose, in any proceeding. In this regard, Section 3(2), Article III of the Constitution provides that:
+
+
+2. Any evidence obtained in violation of this or the preceding section [referring to Section 2] shall be inadmissible for any purpose in any proceeding.
+
+Commonly known as the “exclusionary rule,” the above-cited proscription is not, however, an absolute and rigid one.[7]As found in jurisprudence, the traditional exceptions are customs searches,[8] searches of moving vehicles,[9] seizure of evidence in plain view,[10] consented searches,[11] “stop and frisk” measures[12] and searches incidental to a lawful arrest.[13] This last-mentioned exception is of particular significance to this case and thus, necessitates further disquisition.
+
+A valid warrantless arrest which justifies a subsequent search is one that is carried out under the parameters of Section 5(a), Rule 113 of the Rules of Court[14]which requires that the apprehending officer must have been spurred by probable cause to arrest a person caught in flagrante delicto. To be sure,the term probable cause has been understood to mean a reasonable ground of suspicion supported by circumstances sufficiently strong in themselves to warrant a cautious man's belief that the person accused is guilty of the offense with which he is charged.[15]  Specifically with respect to arrests, it is such facts and circumstances which would lead a reasonably discreet and prudent man to believe that an offense has been committed by the person sought to be arrested.[16]  In this light, the determination of the existence or absence of probable cause necessitates a re-examination of the factual incidents.
+
+Records show that PO2 Soque arrested Ramon for allegedly violating Section 844 of the Manila City Ordinance which provides as follows:
+
+
+Sec. 844. – Breaches of the Peace. – No person shall make, and, countenance, or assist in making any riot, affray, disorder, disturbance, or breach of the peace; or assault, beat or use personal violence upon another without just cause in any public place; or utter any slanderous, threatening or abusive language or expression or exhibit or display any emblem, transparency, representation, motto, language, device, instrument, or thing; or do any act, in any public place, meeting or procession, tending to disturb the peace or excite a riot, or collect with other persons in a body or crowd for any unlawful purpose; or disturbance or disquiet any congregation engaged in any lawful assembly.
+
+PENALTY: Imprisonment of not more than six (6) months and / or fine not more than Two Hundred pesos (PHP 200.00)
+
+As may be readily gleaned, the foregoing ordinance penalizes the following acts: (1) making, countenancing, or assisting in making any riot, affray, disorder, disturbance, or breach of the peace; (2) assaulting, beating or using personal violence upon another without just cause in any public place; (3) uttering any slanderous, threatening or abusive language or expression or exhibiting or displaying any emblem, transparency, representation, motto, language, device, instrument, or thing; and (4) doing any act, in any public place, meeting or procession, tending to disturb the peace or excite a riot, or collect with other persons in a body or crowd for any unlawful purpose, or disturbance or disquiet any congregation engaged in any lawful assembly. Evidently, the gravamen of these offenses is the disruption of communal tranquillity. Thus, to justify a warrantless arrest based on the same, it must be established that the apprehension was effected after a reasonable assessment by the police officer that a public disturbance is being committed.
+
+In this regard, PO2 Soque’s testimony detailed the surrounding circumstances leading to Ramon’s warrantless warrant, viz:
+
+
+
+
+Direct Examination: 
+
+ 
+
+
+ASST. CITY PROS. YAP: 
+
+
+Q:  
+
+Tell the Court, what happened when you were there on patrol? 
+
+
+A:  
+
+While we were on routinary patrol we heard a man shouting on top of his voice telling “Putang ina mo! Limang daan na ba ito?”  pointing to his right front pocket, sir. 
+
+
+Q:   
+
+There was a shouting, where was this man shouting, where was the shouting came from? 
+
+
+A:  
+
+Along the street of Balingkit, sir. 
+
+
+Q:  
+
+How far were you from this shouting, as you said? 
+
+
+A:  
+
+About ten (10) meters, sir. 
+
+
+Q:   
+
+Tell the Court what happened, what next follows? 
+
+
+A:  
+
+We proceeded to the voice where it came from, then, we saw a man, sir. 
+
+
+Q:   
+
+Who was that man? 
+
+
+A:  
+
+Goco, sir. 
+
+
+Q:   
+
+Who is this Goco in relation to this case? 
+
+
+A:  
+
+Ramon Martinez Goco, sir. 
+
+
+Q:   
+
+Who is this Goco in relation to this case? 
+
+
+A:  
+
+He is the one that we apprehended, sir. 
+
+
+Q:  
+
+What was he doing then when you said you responded  immediately, when you saw a man? 
+
+
+A:  
+
+We saw him shouting on top of his voice, sir. 
+
+
+Q:   
+
+That is why you came near him, the one who shouted? 
+
+
+A:  
+
+Yes, sir. 
+
+
+Q:   
+
+So, what did you do, Mr. Witness, together with your other co- operatives? 
+
+
+A:  
+
+We apprehended him for bringing [sic] the silence of the serenity of the  place, sir. 
+
+
+Q:  
+
+What time was that already at that time, the incident of shouting? 
+
+
+A:  
+
+Past 9:00, sir. 
+
+
+Q:   
+
+Who actually accosted Goco, the one who shouted? 
+
+
+A:   
+
+Me, sir. 
+
+
+Q: 
+
+Tell the Court, how many were there at that time present with Goco? 
+
+
+A:   
+
+They scampered away when they saw the police were coming near the place, sir, they scampered in different directions. 
+
+
+Q:   
+
+Tell the Court what were Cepe and Zeta doing also when you approached the accused? 
+
+
+A:  
+
+They followed me, sir. 
+
+
+Q:   
+
+So, tell the Court what happened when you approached accused therein Goco? 
+
+
+A:   
+
+We apprehended Goco for violation for alarm scandal, sir. 
+ x x x x[17] 
+
+ 
+ 
+
+
+CROSS EXAMINATION: 
+
+ 
+
+x x x x 
+
+
+ATTY. AMURAO: 
+
+ 
+ 
+
+
+Q:  
+
+So, just like Leveriza, Balingkit is also thickly populated?
+ PO2 Soque: 
+
+
+A:   
+
+Yes, sir. 
+
+
+Q:  
+
+And there are many people outside their houses? 
+
+
+A:   
+
+Yes, sir. 
+
+
+Q:  
+
+And I can imagine everybody there outside was talking also? 
+
+
+A:  
+
+Yes, sir. 
+
+
+Q:  
+
+I was very noisy, everybody talking, altogether? 
+
+
+A:   
+
+They were talking casually. 
+
+ 
+
+x x x x[18] 
+
+
+Clearly, a perusal of the foregoing testimony negates the presence of probable cause when the police officers conducted their warrantless arrest of Ramon.
+
+To elucidate, it cannot be said that the act of shouting in a thickly-populated place, with many people conversing with each other on the street, would constitute any of the acts punishable under Section 844 of the Manila City Ordinance as above-quoted. Ramon was not making or assisting in any riot, affray, disorder, disturbance, or breach of the peace; he was not assaulting, beating or using personal violence upon another; and, the words he allegedly shouted – “Putang ina mo! Limang daan na ba ito?” –are not slanderous, threatening or abusive, and thus, could not have tended to disturb the peace or excite a riot considering that at the time of the incident, Balingkit Street was still teeming with people and alive with activity.
+
+Further, it bears stressing that no one present at the place of arrest ever complained that Ramon’s shouting disturbed the public. On the contrary, a disinterested member of the community (a certain Rosemarie Escobal) even testified that Ramon was merely standing in front of the store of a certain Mang Romy when a man in civilian clothes, later identified as PO2 Soque, approached Ramon, immediately handcuffed and took him away.[19]
+
+In its totality, the Court observes that these facts and circumstances could not have engendereda well-founded belief that any breach of the peace had been committed by Ramon at the time that his warrantless arrest was effected. All told, no probable cause existed to justify Ramon’s warrantless arrest.
+
+Indeed, while it is true that the legality of arrest depends upon the reasonable discretion of the officer or functionary to whom the law at the moment leaves the decision to characterize the nature of the act or deed of the person for the urgent purpose of suspending his liberty,[20]this should not be exercised in a whimsical manner, else a person’s liberty be subjected to ubiquitous abuse. As law enforcers, it is largely expected of them to conduct a more circumspect assessment of the situation at hand. The determination of probable cause is not a blanket-license to withhold liberty or to conduct unwarranted fishing expeditions.  It demarcates the line between legitimate human conduct on the one hand, and ostensible criminal activity, on the other. In this respect, it must be performed wisely and cautiously, applying the exacting standards of a reasonably discreet and prudent man. Surely, as constitutionally guaranteed rightslie at the fore, the duty to determine probable cause should be clothed with utmost conscientiousness, as well as impelled by a higher sense of public accountability.
+
+Consequently, as it cannot be said that Ramon was validly arrested, the warrantless search that resulted from it was also illegal. As such, the subject shabu purportedly seized from Ramon is in admissible in evidence for being the proverbial fruit of the poisonous tree as mandated by the above-discussed constitutional provisions.  In this regard, considering that the confiscated shabu is the very corpus delicti of the crime charged, Ramon’s acquittal should therefore come as a matter of course.
+
+WHEREFORE, the petition is GRANTED. The June 30, 2011 Decision and September 20, 2011 Resolution of the Court of Appeals are REVERSED and SET ASIDE. Petitioner Ramon Martinez y Goco/ Ramon Goco y Martinez is hereby ACQUITTED of the crime charged.
+
+SO ORDERED.
+
+Carpio, (Chairperson), Brion, Del Castillo, and Perez, JJ., concur.
+ 
+
+
+[1] Rollo, pp. 8-12.
+
+[2] Id. at 25-37. Penned by Associate Justice Antonio L. Villamor, with Associate Justices Jose C. Reyes, Jr. and Ramon A. Cruz, concurring.
+
+[3] Id. at 69-70.
+
+[4] Id. at 17-23. Penned by Judge Alejandro G. Bijasa.
+
+[5] Original records, p. 1.
+
+[6] Rollo, p. 35.
+
+[7] People v. Montilla, G.R. No. 123872, January 30, 1998, 285 SCRA 703, 717.
+
+[8] Id., citing Chia v. Acting Collector of Customs, L-43810, September 26, 1989, 177 SCRA 755; Papa v. Mago, L-27360, February 28, 1968, 22 SCRA 857.
+
+[9] Id., citing Aniag, Jr. v. Commission on Elections, G.R. No. 104961, October 7, 1994, 237 SCRA 424; Valmonte v. De Villa, G.R. No. 83988, May 24, 1990, 185 SCRA 665.
+
+[10] Id., citing People v. Leangsiri, G.R. No. 112659, January 24, 1996, 252 SCRA 213; People v. Figueroa, G.R. No. 97143, October 2, 1995, 248 SCRA 679.
+
+[11] Id., citing People v. Fernandez, G.R. No. 113474, December 13, 1994, 239 SCRA 174; People v. Tabar, G.R. No. 101124, May 17, 1993, 222 SCRA 144.
+
+[12] Id., citing Terry v. Ohio, 392 U.S. I, 88 S Ct. 1868, 20 L. Ed. 2d 889 (1968), adopted in Posadas v. Court of Appeals, G.R. No. 89139, August 2, 1990, 188 SCRA 288.
+
+[13] Id., citing People v. Malmstedt, G.R. No. 91107, June 19, 1991, 198 SCRA 401.
+
+[14] Sec. 5(a) Rule 113 of the Rules of Court provides:
+
+(a) When, in his presence, the person to be arrested has committed, is actually committing or is attempting to commit an offense.
+
+[15] People v. Chua Ho San @TsayHo San, G.R. No. 128222, June 17, 1999, 308 SCRA 432, 445, citing People v. Encinada, October 2, 1997, 280 SCRA 72.
+
+[16] Id. at 556-446, citing Joaquin G. Bernas, S.J., The Constitution of the Philippines: A Commentary, 85 (1st ed. 1987).
+
+[17] TSN, September 3, 2008, pp. 7-9.
+
+[18] TSN, September 17, 2008, p. 19.
+
+[19] TSN, January 14, 2009, pp. 6-9.
+
+[20] People v. Ramos, G.R. No. 85401-02, June 4, 1990, 264 SCRA 554, 569. See also People v. Molleda, November 21, 1978, 86 SCRA 667, 700.
+
+
+
+
+  

@@ -1,0 +1,230 @@
+766 Phil. 519 
+
+FIRST DIVISION
+
+G.R. No. 211649, August 12, 2015
+
+AQA GLOBAL CONSTRUCTION, INC., PETITIONER, VS. PLANTERS DEVELOPMENT BANK, RESPONDENT.
+
+G.R. No. 211742]
+
+JE-AN SUPREME BUILDERS AND SALES CORPORATION, PETITIONER, VS. PLANTERS DEVELOPMENT BANK, RESPONDENT.
+
+D E C I S I O N
+
+PERLAS-BERNABE, J.: 
+
+
+Assailed in these consolidated petitions for review on certiorari[1] are the Decision[2] dated July 18, 2013 and the Resolution[3] dated March 10, 2014 of the Court of Appeals (CA) in CA-G.R. SP No. 127219, which set aside the Orders dated July 16, 2012[4] and September 25, 2012[5] issued by the Regional Trial Court of Pasig City, Branch 160 (RTC) in LRC Case No. R-7509, excluding the petitioners in these cases from the implementation of the writ of possession in favor of respondent Planters Development Bank (Plantersbank).
+
+
+The Facts
+
+
+Plantersbank was the mortgagee of nineteen (19) parcels of land situated in San Juan, Metro Manila (subject properties), covered by Transfer Certificates of Title (TCT) Nos. 11057-R to 11075-R, under a Mortgage[6] dated February 28, 2003 executed by the borrower-mortgagor, Kwong-on Trading Corporation (KTC), to secure a P14,000,000.00 loan. KTC defaulted in the payment of its loan, constraining Plantersbank to extra­ judicially foreclose the mortgaged properties[7] and, in the process, emerged as the highest bidder in the public auction sale held on May 5, 2010.[8] KTC likewise failed to redeem the subject properties, which led to the cancellation of TCT Nos. 11057-R to 11075-R,[9] and the issuance of TCT Nos. 012-2011000149 to 012-2011000167[10] in the name of Plantersbank. Thereafter, Plantersbank applied for a writ of possession, which was granted by the RTC in a Decision[11] dated January 6, 2012 (January 6, 2012 Decision). The corresponding writ of possession was issued on February 2, 2012 and served, together with the Notice to Vacate[12] and the January 6, 2012 Decision, to petitioner AQA Global Construction Inc. (AQA), which occupied the subject properties at the time.[13]
+
+AQA filed a Manifestation and Motion[14] before the RTC, seeking leave of court to intervene in the case and to be excluded from the implementation of the writ of possession, claiming that its possession: (a) was adverse to that of KTC; and (b) stemmed from a ten (10) year contract of lease[15] commencing on March 10, 2009, with petitioner Je-an Supreme Builders and Sales Corporation (Je-An), which had bought the subject property from Little Giant Realty Corporation (Little Giant), the registered owner of the subject properties.
+
+On the other hand, Je-An filed an Affidavit of Third Party Claim[16] to stay the implementation of the writ of possession, alleging that its right to possess the subject properties was: (a) separate and distinct from that of KTC;[17] and (b) derived from a Contract to Sell[18] dated January 15, 2003 (January 15, 2003 Contract to Sell) executed by Little Giant.
+
+Plantersbank opposed[19] AQA's motion, contending that AQA cannot be considered a third party possessing the subject properties adversely against KTC because the latter derived its right from Je-An through a Deed of Assignment[20] of the subject properties dated February 24, 2003 (February 24, 2003 Deed of Assignment) executed by its representative, Antonio Q. Achurra, Jr. (Achurra). Plantersbank further averred that the lease between Je-An and AQA cannot bind it since the same was not registered and annotated on the titles over the subject properties.[21]
+
+AQA filed its Reply,[22] maintaining that its right to possess the subject properties did not come from KTC but from Je-An. It further averred that KTC has no right over the subject properties considering the subsequent rescission[23] of the February 24, 2003 Deed of Assignment by Little Giant and KTC.
+
+
+The RTC Ruling
+
+
+After hearing AQA's motion, the RTC issued an Order[24] dated July 16, 2012 excluding AQA and Je-An from the implementation of the writ of possession in favor of Plantersbank, ruling that they are third parties which did not derive title from KTC. It held that Plantersbank's proper recourse is to file a separate action questioning their possession.
+
+Dissatisfied, Plantersbank moved for reconsideration[25] which was, however, denied in an Order[26] dated September 25, 2012. It then elevated the matter to the CA through a petition for certiorari[27] under Rule 65 of the Rules of Court (Rules).
+
+
+The CA Ruling
+
+
+In a Decision[28] dated July 18, 2013, the CA ruled that the RTC gravely abused its discretion in staying the implementation of the writ of possession against AQA and Je-An. It held that when a writ of possession had already been issued, the adverse third party seeking to vindicate its claim of ownership and/or possession over the foreclosed properties may avail of the cumulative remedies of: (a) terceria to determine whether the sheriff has rightly or wrongly taken hold of the property not belonging to the judgment debtor or obligor; and (b) an independent separate action.[29] The CA further held that third parties cannot intervene in an ex parte petition for the issuance of a writ of possession.[30]
+
+Undaunted, AQA and Je-An separately moved for reconsideration[31] which were, however, denied in a Resolution[32] dated March 10, 2014; hence, the instant petitions.
+
+
+The Issue Before the Court
+
+
+The essential issue for the Court's resolution is whether or not the CA erred in finding that the RTC gravely abused its discretion in staying the implementation of the writ of possession against AQA and Je-An.
+
+
+The Court's Ruling
+
+
+The petition lacks merit.
+
+A writ of possession is an order by which the sheriff is commanded to place a person in possession of a real or personal property. It may be issued under any of the following instances:[33] (a) land registration proceedings under Section 17 of Act No. 496,[34] otherwise known as the "The Land Registration Act"; (b) judicial foreclosure, provided the debtor is in possession of the mortgaged realty and no third person, not a party to the foreclosure suit, had intervened; and (c) extrajudicial foreclosure of a real estate mortgage under Section 7 of Act No. 3135,[35] as amended by Act No. 4118.[36]
+
+The general rule is that after the lapse of the redemption period, the purchaser in a foreclosure sale becomes the absolute owner of the property purchased who is entitled to the possession of the said property. Upon ex parte petition, it is ministerial upon the trial court to issue the writ of possession in his favor. The exception, however, is provided under Section 33, Rule 39 of the Rules,[37] which applies suppletorily to extrajudicial foreclosures of real estate mortgages. Under the said provision of law, the possession of the mortgaged property may be awarded to a purchaser in the extrajudicial foreclosure unless a third party is actually holding the property adversely to the judgment debtor:[38]
+
+SEC. 33. Deed and possession to be given at expiration of redemption period; by whom executed or given. - If no redemption be made within one (1) year from the date of the registration of the certificate of sale, the purchaser is entitled to a conveyance and possession of the property; or, if so redeemed whenever sixty (60) days have elapsed and no other redemption has been made, and notice thereof given, and the time for redemption has expired, the last redemptioner is entitled to the conveyance and possession; but in all cases the judgment obligor shall have the entire period of one (I) year from the date of the registration of the sale to redeem the property. The deed shall be executed by the officer making the sale or by his successor in office, and in the latter case shall have the same validity as though the officer making the sale had continued in office and executed it.
+
+Upon the expiration of the right of redemption, the purchaser or redemptioner shall be substituted to and acquire all the rights, title, interest and claim of the judgment obligor to the property as of the time of the levy. The possession of the property shall be given to the purchaser or last redemptioner by the same officer unless a third party is actually holding the property adversely to the judgment obligor. (Emphasis supplied)
+
+Thus, where a parcel of land levied upon on execution is occupied by a party other than a judgment debtor, the procedure is for the court to order a hearing to determine the nature of said adverse possession.[39] For the exception to apply, however, the property need not only be possessed by a third party, but also held by him adversely to the judgment obligor - such as that of a co-owner, agricultural tenant or usufructuary, who possess the property in their own right and not merely the successor or transferee of the right of possession of,[40] or privy to,[41] the judgment obligor.
+
+In this case, petitioners' claim of right of possession over the subject properties is not analogous to any of the foregoing as to render such possession adverse to the judgment obligor, KTC, under legal contemplation.
+
+In the first place, Je-An's claimed ownership over the subject properties is based on the January 15, 2003 Contract to Sell,[42] which is legally insufficient to transfer title in its favor absent a deed of conveyance duly executed by the vendor, Little Giant, and, at most, affords it a mere inchoate right over the said properties.[43]
+
+Secondly, while records show that KTC acquired its rights and interests over the subject properties from Little Giant through the February 24, 2003 Deed of Assignment,[44] Je-An, the vendee under the January 15, 2003 Contract to Sell of the same properties, was privy to the conveyance to KTC since its representative, i.e., Achurra, was the one who executed the said deed of assignment in favor of KTC in behalf of Little Giant. Such is apparent from the "Brief Statement of Claims and Defenses"[45] in the pre-trial[46] brief dated September 10, 2010 filed by Je-An and Achurra in Civil Case Nos. 69973 and 69988 before the same RTC - i.e., the consolidated cases for: (a) annulment of contract to sell and deed of assignment, cancellation of titles, annulment of mortgage, accounting and damages, filed by Diokno as representative of Little Giant and for his own behalf against Je-An and Achurra; and (b) specific performance and damages filed by Je-An, represented by Achurra, against Diokno - and is inconsistent with Je-An's claim of adverse possession against KTC in this case.
+
+Thirdly, it appears that at the time KTC executed the Mortgage[47] in favor ofPlantersbank on February 28, 2003, titles over the subject properties were already in its name sans any annotation of the January 15, 2003 Contract to Sell in favor of Je-An. Moreover, the records are bereft of showing that at the time Plantersbank consolidated its title over the foreclosed properties in 2011, any adverse claim[48] based on said contract to sell and/or the purported rescission[49] on August 1, 2003 of the February 24, 2003 Deed of Assignment between Little Giant (as represented by Achurra) and KTC had been registered by Je-An, Achurra or Little Giant on KTC's titles.
+
+Clearly, the stay of the implementation of the writ of possession prayed for by Je-An on the basis of such inchoate right would becloud the integrity and derogate the indefeasibility of the torrens title[50] issued in favor of Plantersbank as a confirmed owner, which the Court cannot allow. Corollorily, the enforcement of the writ of possession cannot also be stayed in favor of AQA which merely derived its possession from Je-An through an unregistered contract of lease. The Court simply cannot subscribe to AQA's claim[51] that its status as a tenant renders its possession adverse to that of Plantersbank, in consonance with the ruling in China Bank v. Spouses Lozada.[52] In the said case, the "tenant" contemplated clearly refers to an "agricultural tenant" who: (a) possesses the property in his own right; and (b) is protected by Presidential Decree (PO) No. 1038[53] wherein a tenant­tiller of private agricultural lands devoted to crops other than rice and/or com shall not be removed, ejected, ousted or excluded from his farmholding unless directed by a final decision or order of the court for causes provided by law, which does not include sale of the land[54] - and not to a "civil law tenant."
+
+It bears to emphasize that a civil law lease is a mere personal right. It partakes of the nature of a real right when it is recorded on the title of the lessor only in the sense that it is binding even as against third persons without actual notice of the transaction.[55] Under Section 51 of PD No. 1529,[56] otherwise known as the Land Registration Decree, "no deed, mortgage, lease or other voluntary instrument, except a will purporting to convey or affect registered land shall take effect as a conveyance or bind the land" until its registration. In the present case, AQA's unregistered lease with Je-An is, thus, not binding on Plantersbank.
+
+Consequently, Je-An and AQA cannot be considered third parties holding the subject properties adversely to KTC, the defaulting debtor­ mortgagor. Resultantly, the general rule, and not the exception, applies to the instant petitions, rendering it the mandatory and ministerial duty of the RTC to issue the writ of possession in favor of Plantersbank as the confirmed owner, and of the Sheriff to implement the said writ. As this Court ruled in St. Dominic Corp. v. Intermediate Appellate Court:[57]
+
+The right of the respondent to the possession of the property is clearly unassailable. It is founded on the right of ownership. As the purchaser of the properties in the foreclosure sale, and to which the respective titles thereto have already been issued, the petitioner's rights over the property has become absolute, vesting upon it the right of possession of the property which the court must aid in affecting its delivery. After such delivery, the purchaser becomes the absolute owner of the property. As we said in Tan Soo Huat v. Ongwico (63 Phil., 746), the deed of conveyance entitled the purchaser to have and to hold the purchased property. This means, that the purchaser is entitled to go immediately upon the real property, and that it is the sheriff's inescapable duty to place him in such possession. (Citation omitted).
+
+Nonetheless, the Court would like to take exception to the CA's ruling, limiting the remedies of the adverse third party to vindicate his claim of ownership and/or possession over the foreclosed property to a terceria and an independent separate action once a writ of possession had already been issued, as in this case. In Gagoomal v. Spouses Villacorta,[58] the Court ruled that aside from such remedies, the adverse third party may take other legal remedies to prosecute his claim, such as invoking the supervisory power of the RTC to enjoin the enforcement/implementation of the writ of possession, as what petitioners did in this case. Unquestionably, the RTC has a general supervisory control over the entire execution process, and such authority carries with it the right to determine every question which may be invariably involved in the execution, and ensure that it is enforcing its judgment only against properties irrefutably belonging to the judgment debtor.[59] However, in such instances, the RTC does not and cannot pass upon the question of title to the property, with any character of finality, and can treat of the matter only as may be necessary to decide the question of whether or not the person in possession holds the property adversely to the judgment obligor. If the claimant's proofs do not persuade the court of the validity of his title or right of possession thereto, the claim will be denied.[60]
+
+In sum, while the Court finds the CA to have erred in ruling that the RTC was not clothed with the supervisory authority to determine the nature of the possession of Je-An and AQA, it correctly ruled against the propriety of staying the implementation of the writ of possession against them.
+
+WHEREFORE, the petitions are DENIED. The Decision dated July 18, 2013 and the Resolution dated March 10, 2014 of the Court of Appeals in CA-GR. SP No. 127219 are hereby AFFIRMED.
+
+SO ORDERED.
+
+Sereno, C. J., (Chairperson), Leonardo-De Castro, Bersamin, and Perez, JJ., concur.
+
+
+[1] Rollo (GR. No. 211649), pp. 11-27; rollo (G.R. No. 211742), pp. 10-29.
+
+[2] Rollo (G.R. No. 2ll649), pp. 32-42; rollo (G.R. No. 211742), pp. 34-44. Penned by Associate Justice Mariflor P. Punzalan Castillo with Associate Justices Amy C. Lazaro-Javier and Zenaida T. Galapate­ Laguilles concurring. 
+
+[3] Rollo (GR. No. 211649), pp. 44-45; rollo (G.R. No. 211742), pp. 46-47.
+
+[4] Rollo (G.R. No. 211649), pp. 94-96; rollo (G.R. No. 211742), pp. 95-97. Penned by Judge Myrna V. Lim-Verano.
+
+[5] Rollo (G.R. No. 211649), p. 128; rollo (G.R. No. 211742), p. 98.
+
+[6] Rollo (G.R. No. 211649), pp. 115-120, including annex. 
+
+[7] In accordance with Act No. 3135, entitled "AN ACT To REGULATE THE SALE OF PROPERTY UNDER SPECIAL POWERS INSERTED IN OR ANNEXED To REAL-ESTATE MORTGAGES" as amended.
+
+[8] See Certificate of Sale dated May 31, 2010; rollo (G.R. No. 211649), pp. 161-166; rollo (G.R. No. 211742), pp. 109-114.
+
+[9] TCT Nos. 11057-B to 11075-B in some parts of the records. 
+
+[10] Not attached to the rollos.
+
+[11] Not attached to the rollos.
+
+[12] CA rollo, p. 56. 
+
+[13] Rollo (G.R. No. 211649), p. 33; rollo (G.R. No. 211742), p. 35. 
+
+[14] Rollo (G.R. No. 211649), pp. 51-55. 
+
+[15] Rollo (G.R. No. 211649), pp. 57-60; rollo (G.R. No. 211742), pp. 65-68.
+
+[16] Rollo (G.R. No. 211742), pp. 69-71. 
+
+[17] Id. at 69. 
+
+[18] Rollo (G.R. No. 211649), pp. 75-79; rollo (G.R. No. 211742), pp. 72-76.
+
+[19] See Comment/Opposition (Re: AQA's Manifestation and Motion dated February 6, 2012); rollo (G.R. No. 211649), pp. 64-66.
+
+[20] Id. at 107-108. 
+
+[21] Id. at 65. 
+
+[22] Dated March 2, 2012. Id. at 67-71. 
+
+[23] See Rescission of Previously Executed Deed of Assignment dated August 1, 2003; id. at 72-74.
+
+[24] Rollo (G.R. No. 211649), pp. 94-96; rollo (G.R. No. 211742), pp. 95-97. 
+
+[25] See Motion for Reconsideration dated August 8, 2012 (Re: Order dated 16 July 2012); CA rollo, pp. 90-97. 
+
+[26] Rollo (G.R. No. 211649), p. 128; rollo (G.R. No. 211742), p. 98. 
+
+[27] Rollo (G.R. No. 211649), pp. 129-145; rollo (G.R. No. 211742), pp. 77-93. While the petition was captioned as a Petition for Review, PDB stated that the same was an original special civil action for certiorari under Rule 65 of the Rules.
+
+[28] Rollo (G.R. No. 211649), pp. 32-42; rollo (G.R. No. 211742), pp. 34-44. 
+
+[29] Rollo (G.R. No. 211649), p. 37; rollo (G.R. No. 211742), p. 39. 
+
+[30] Rollo (G.R. No. 211649), p. 40; rollo (G.R. No. 211742), p. 42.
+
+[31] See Motion for Reconsideration of AQA dated August 7, 2013 (CA rollo, pp. 201-213) and Motion for Reconsideration of Je-An dated August 7, 2013 (CA rollo, pp. 191-200). 
+
+[32] Rollo (G.R. No. 211649), pp. 44-45; rollo (G.R. No. 211742), pp. 46-47.
+
+[33] Gagoomal v. Spouses Villacorta, 679 Phil. 441, 449-450 (2012), citing Spouses Matos v. Real Bank (A Thrift Bank), Inc., 610 Phil. 628, 636 (2009). 
+
+[34] Entitled "AN ACT TO PROVIDE FOR THE ADJUDICATION AND REGISTRATION OF TITLES TO LANDS IN THE PHILIPPINE ISLANDS." (January 1, 1903).
+
+[35] Entitled "AN ACT TO REGULATE THE SALE OF PROPERTY UNDER SPECIAL POWERS INSERTED IN OR ANNEXED TO REAL ESTATE MORTGAGES." (March 6, 1924). 
+
+[36] Entitled "AN ACT TO AMEND ACT NUMBERED THIRTY-ONE HUNDRED AND THIRTY-FIVE, ENTITLED "AN ACT TO REGULATE THE SALE OF PROPERTY UNDER SPECIAL POWERS INSERTED IN OR ANNEXED TO REAL-ESTATE MORTGAGES." (December 7, 1933).
+
+[37] BPI Family Savings Bank, Inc. v. Golden Power Diesel Sales Center, Inc., 654 Phil. 382, 391 (2011). 
+
+[38] Villanueva v. Cherdan Lending Investors Corp., 647 Phil. 494, 502 (2010). 
+
+[39] China Banking Corp. v. Spouses Lozada, 579 Phil. 454, 474-475 (2008).
+
+[40] Id. at 478-480. 
+
+[41] Dev't. Bank of the Phils. v. Prime Neighborhood Ass'n., 605 Phil. 660, 673 (2009). 
+
+[42] Rollo (G.R. No. 211649), pp. 75-79; rollo (G.R. No. 211742), pp. 72-76. 
+
+[43] See Spouses Vilbar v. Opinion, G.R. No. 176043, January 15, 2014, 713 SCRA 428. 
+
+[44] Rollo (G.R. No. 211649), pp. 107-108. 
+
+[45] Id. at 122-123. 
+
+[46] See Entry of Appearance and Pre-Trial Brief filed by Je-An and Achurra in Civil Case Nos. 69973 and 69988; id. at 121-125. 
+
+[47] Id. at 115-120, including annex. 
+
+[48] Section 70 of Presidential Decree 1529, otherwise known as the Property Registration Decree (June 11, 1978) provides: 
+
+SEC. 70. Adverse claim. Whoever claims any part or interest in registered land adverse to the registered owner, arising subsequent to the date of the original registration, may, if no other provision is made in this Decree for registering the same, make a statement in writing setting forth fully his alleged right or interest, and how or under whom acquired, a reference to the number of the certificate of title of the registered owner, the name of the registered owner, and a description of the land in which the right or interest is claimed. 
+
+The statement shall be signed and sworn to, and shall state the adverse claimant's residence, and a place at which all notices may be served upon him. This statement shall be entitled to registration as an adverse claim on the certificate of title. The adverse claim shall be effective for a period of thirty days from the date of registration. After the lapse of said period, the annotation of adverse claim may be canceled upon filing of a verified petition therefor by the party in interest: Provided, however, that after cancellation, no second adverse claim based on the same ground shall be registered by the same claimant. 
+
+Before the lapse of thirty days aforesaid, any party in interest may file a petition in the Court of First Instance where the land is situated for the cancellation of the adverse claim, and the court shall grant a speedy hearing upon the question of the validity of such adverse claim, and shall render judgment as may be just and equitable. If the adverse claim is adjudged to be invalid, the registration thereof shall be ordered canceled. If, in any case, the court, after notice and hearing, shall find that the adverse claim thus registered was frivolous, it may fine the claimant in an amount not less than one thousand pesos nor more than five thousand pesos, in its discretion. Before the lapse of thirty days, the claimant may withdraw his adverse claim by filing with the Register of Deeds a sworn petition to that effect.
+
+[49] Rescission of Previously Executed Deed of Assignment dated August 1, 2003; rollo (G.R. No. 211649), pp. 72-74.
+
+[50] See St. Dominic Corp. v. Intermediate Appellate Court, 235 Phil. 582, 595 (1987). 
+
+[51] Rollo (G.R. No. 211649), p. 23. 
+
+[52] Supra note 39. 
+
+[53] Entitled "STRENGTHENING THE SECURITY OF TENURE OF TENANT-TILLERS IN NON-RICE/CORN PRODUCING PRIVATE AGRICULTURAL LANDS" (October 21, 1976). 
+
+[54] See footnote 56 in China Banking Corp. v. Spouses Lozada, supra note 39 at 479. 
+
+See also Republic Act No. 3844, otherwise known as the Agricultural Land Reform Code, which similarly provides that "[t]he agricultural lessee shall be entitled to security of tenure on his landholding and cannot be ejected therefrom unless authorized by the Court for causes" under Section 36 thereof, that does not include sale of the land.
+
+[55] De Leon, Hector S. and De Leon, Hector Jr. M., Comments and Cases on Sales and Lease, 2011 Edition, p. 622. 
+
+[56] Entitled "AMENDING AND CODIFYING THE LAWS RELATIVE TO REGISTRATION OF PROPERTY AND FOR OTHER PURPOSES" (June 11, 1978). 
+
+[57] Supra note 50 at 596. 
+
+[58] Supra note 33.
+
+[59] Supra note 33, at 455 and 459.
+
+[60] See Spouses Sy v. Hon. Discaya, 260 Phil. 401, 407 (1990).
+
+
+
+
+  
